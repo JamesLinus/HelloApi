@@ -1,4 +1,4 @@
 # HelloApi
-public api https://getssconfigs.arukascloud.io/ with shadowsocks
+public api https://getssconfigs.arukascloud.io/ with shadowsocks.
 
-ArukasCloud Docker build
+SpringBoot project, ArukasCloud Docker build.
